@@ -28,3 +28,7 @@ but we can create multiple tables using (createtable) function
 #### size  
  any item in the dynamodb is limited to 400kb (here item is object/row(document in mongodb) in the table), each attribute(property/key-value pair) must be under 2kb
  we cannot store empty value in dynamodb (must be atleast 1 character)
+
+### Capacity units in dynamodb
+ ------------
+ 1 capacity unit =  1 request per sec
