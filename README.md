@@ -32,3 +32,11 @@ but we can create multiple tables using (createtable) function
 ### Capacity units in dynamodb
  ------------
  1 capacity unit =  1 request per sec
+
+
+
+
+Questions and best practices
+---------------------------
+scan vs query
+
