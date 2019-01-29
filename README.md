@@ -39,4 +39,6 @@ but we can create multiple tables using (createtable) function
 Questions and best practices
 ---------------------------
 scan vs query
+Hash vs Range = 
+          if we are using it for sorting then we use RANGE otherwise we use HASH
 
